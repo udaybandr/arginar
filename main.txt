@@ -1,6 +1,9 @@
 naresh is devops enginner
 uday is a devops engineer
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> parent of 99db7f8 (adding second line to the main.txt)
